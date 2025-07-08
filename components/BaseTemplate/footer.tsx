@@ -28,7 +28,7 @@ export function BaseFooter() {
                 Discord
               </Link></span>
 
-              <span>  and don&apos;t forget to check out my and   <Link
+              <span>  and don&apos;t forget to check out my <Link
                 href="/CV/cv.pdf"
                 download
                 className="lola hover:text-blue-300 font-medium"
