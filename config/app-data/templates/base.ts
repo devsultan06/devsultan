@@ -14,7 +14,6 @@ export interface BaseTemplate {
   };
   fullName: string;
   location: string;
-  tagline: string;
   features: {
     [key in FeaturesEnum]: boolean; // key is the feature name and value is a boolean to determine if the feature is active or not
   };
@@ -32,7 +31,6 @@ export const BaseTemplate: BaseTemplate = {
   },
   fullName: UserInfoData.fullName,
   location: UserInfoData.location,
-  tagline: UserInfoData.tagLine,
   features: {
     [FeaturesEnum.SOCIALS_SECTION]: true,
     [FeaturesEnum.SKILLS_SECTION]: true,
