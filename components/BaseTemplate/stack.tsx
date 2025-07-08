@@ -2,7 +2,7 @@
 export const TechStackGroups = [
     {
         title: "Frontend",
-        items: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        items: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Firebase", "Shadcn/Material UI"],
     },
     {
         title: "Backend",
