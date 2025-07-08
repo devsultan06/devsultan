@@ -1,5 +1,5 @@
 export const UserInfoData = {
-  fullName: "devsultan",
+  fullName: "Sultan",
   tagLine: "Full Stack Engineer (Frontend-leaning) & Open Source Contributor",
   location: "The Meta verse",
  
