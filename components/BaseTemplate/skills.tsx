@@ -15,7 +15,7 @@ export const SkillsSection = () => {
           >
             <div className="flex items-center justify-between gap-4 mb-2">
               <h3 className="text-lg font-semibold">{skill.name}</h3>
-              <span className="px-2 py-1 text-xs font-medium bg-zinc-700 text-zinc-200 rounded-full">
+              <span className="px-2 py-1 text-xs  whitespace-nowrap font-medium bg-zinc-700 text-zinc-200 rounded-full">
                 {skill.projects_completed} projects
               </span>
             </div>
