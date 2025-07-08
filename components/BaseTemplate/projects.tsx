@@ -1,7 +1,6 @@
 import { UserProjectsData } from "../../config/user-data/projects";
 import Image from "next/image";
 import Link from "next/link";
-import { BaseTemplate } from "../../config/app-data/templates/base";
 
 export const ProjectsSection = () => {
 
