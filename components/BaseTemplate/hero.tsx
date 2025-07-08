@@ -1,6 +1,5 @@
 
 import Link from "next/link";
-import Image from "next/image";
 import { BaseTemplate } from "../../config/app-data/templates/base";
 import { UserSocialsData } from "../../config/user-data/socials";
 
