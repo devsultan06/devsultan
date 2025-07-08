@@ -16,7 +16,7 @@ export default function ContactModal({ open, onClose }: ContactModalProps) {
                 <DialogHeader>
                     <DialogTitle className="text-xl">Contact Me</DialogTitle>
                     <DialogDescription className="text-sm text-gray-400">
-                        Don't hesitate to reach out if you have something interesting or just want to say hi!
+                        Don&apos;t hesitate to reach out if you have something interesting or just want to say hi!
                     </DialogDescription>
                 </DialogHeader>
 
