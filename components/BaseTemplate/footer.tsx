@@ -15,7 +15,7 @@ export function BaseFooter() {
                 href="https://github.com/devsultan06"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-blue-400 hover:text-blue-300 font-medium"
+                className="lola hover:text-blue-300 font-medium"
               >
                 Github
               </Link>
@@ -23,7 +23,7 @@ export function BaseFooter() {
                 href="https://discord.com/users/1097891811395129434"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-blue-400 hover:text-blue-300 font-medium"
+                className="lola hover:text-blue-300 font-medium"
               >
                 Discord
               </Link></span>
@@ -31,7 +31,7 @@ export function BaseFooter() {
               <span>  and don&apos;t forget to check out my and   <Link
                 href="/CV/cv.pdf"
                 download
-                className="text-blue-400 hover:text-blue-300 font-medium"
+                className="lola hover:text-blue-300 font-medium"
               >
                 Resume!
               </Link>

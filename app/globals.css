@@ -67,9 +67,12 @@
     --chart-5: 340 75% 55%;
   }
 }
+.lol {
+  background: oklch(58.5% 0.233 277.117);
+}
 
-.bg {
-  background: oklch(14.5% 0 0);
+.lola {
+  color: oklch(58.5% 0.233 277.117);
 }
 
 @layer base {

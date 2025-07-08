@@ -50,21 +50,11 @@ export const HeroSection = () => {
               </div>
             </div>
 
-            <Image
-              src={
-                BaseTemplate.heroImage.type === "url"
-                  ? BaseTemplate.heroImage.url
-                  : `/images/${BaseTemplate.heroImage.url}`
-              }
-              width={100}
-              height={100}
-              alt="Profile picture"
-              className="w-28 h-28 rounded-sm object-cover transform -rotate-12 shadow-lg border-2 border-white hover:rotate-0 transition-transform duration-300 max-sm:hidden"
-            />
+          
           </div>
 
           <p className="text-base text-zinc-300 leading-relaxed mb-8  break-words">
-            {BaseTemplate.miniBio}
+            I&apos;m a  <span className="lol text-white px-1">Full Stack Engineer</span> with a strong focus on frontend development, building clean, responsive, and user-centered interfaces using React, Next JS, TypeScript, and Tailwind CSS. While my expertise lies in the frontend, I&apos;m continuously improving my backend skills with technologies like Node.js and Express. I&apos;m also an aspiring open source contributor, passionate about building impactful tools and learning through collaboration.
           </p>
 
           {/* social links start */}
