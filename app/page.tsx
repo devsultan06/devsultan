@@ -6,6 +6,7 @@ import { SkillsSection } from "@/components/BaseTemplate/skills";
 import { ProjectsSection } from "@/components/BaseTemplate/projects";
 import ConnectSection from "@/components/BaseTemplate/connect";
 import { BaseFooter } from "@/components/BaseTemplate/footer";
+import { TechStackSection } from "@/components/BaseTemplate/stack";
 export default function Home() {
 
   return (<BaseTemplateLayout>
@@ -13,6 +14,7 @@ export default function Home() {
     <WorkExperienceSection />
     <SkillsSection />
     <ProjectsSection />
+    <TechStackSection/>
     <ConnectSection />
     <BaseFooter />
   </BaseTemplateLayout>);
