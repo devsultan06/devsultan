@@ -12,7 +12,7 @@ export const UserProjectsData: Project[] = [
     title: "OpenHealth",
     role: "Frontend Intern",
     description:
-      "An AI-powered preventive health platform tailored for young Africans. Contributed to the redesign of the landing page, user dashboard, chatbot, and admin dashboard while applying secure coding practices.",
+      "OpenHealth is “The first AI-driven preventive health platform built specifically for young Africans.” We are making healthcare a continuous, interactive experience rather than an emergency solution.",
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
   },
@@ -91,7 +91,7 @@ export const UserProjectsData2: Project[] = [
     title: "OpenHealth",
     role: "Frontend Intern",
     description:
-      "An AI-powered preventive health platform tailored for young Africans. Contributed to the redesign of the landing page, user dashboard, chatbot, and admin dashboard while applying secure coding practices.",
+      "OpenHealth is “The first AI-driven preventive health platform built specifically for young Africans.” We are making healthcare a continuous, interactive experience rather than an emergency solution.",
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
   },
