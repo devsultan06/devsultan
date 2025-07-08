@@ -45,7 +45,7 @@ export const UserProjectsData: Project[] = [
     role: "Frontend Developer (Side Project)",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe.vercel.app", // update if deployed
+    url: "https://streamvibe06.vercel.app", // update if deployed
     previewImage: "/images/pro1.png",
   },
   {
@@ -124,7 +124,7 @@ export const UserProjectsData2: Project[] = [
     role: "Frontend Developer (Side Project)",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe.vercel.app", // update if deployed
+    url: "https://streamvibe06.vercel.app", // update if deployed
     previewImage: "/images/pro1.png",
   },
   {
@@ -179,10 +179,10 @@ export const UserProjectsData2: Project[] = [
   {
     title: "Portfolio",
     role: "Frontend Developer (Client)",
-    description:
-      "A clean, ",
-    url: "https://qrcode-generator06.vercel.app/", // replace with actual
-    previewImage: "/images/pro6.png",
+    description: "A clean portfolio for a UI/UX designer, currently under development.",
+    url: "#", // Or use "" if you prefer
+    previewImage: "/images/l.png",
   }
+
 
 ];
