@@ -53,7 +53,7 @@ export const HeroSection = () => {
           </div>
 
           <p className="text-base text-zinc-300 leading-relaxed mb-8  break-words">
-            I&apos;m a  <span className="lol text-white px-1">Full Stack Engineer</span> with a strong focus on frontend development, building clean, responsive, and user-centered interfaces using React, Next JS, TypeScript, and Tailwind CSS. While my expertise lies in the frontend, I&apos;m continuously improving my backend skills with technologies like Node.js and Express. I&apos;m also an aspiring open source contributor, passionate about building impactful tools and learning through collaboration. I&apos;m also an aspiring open source contributor, passionate about building impactful tools and learning through collaboration. Recently, I&apos;ve started learning Data Structures and Algorithms (DSA) to sharpen my problem-solving skills and prepare for technical interviews on platforms like LeetCode
+            I&apos;m a  <span className="lol text-white px-1">Full Stack Engineer</span> with a strong focus on frontend development, building clean, responsive, and user-centered interfaces using React, Next JS, TypeScript, and Tailwind CSS. While my expertise lies in the frontend, I&apos;m continuously improving my backend skills with technologies like Node.js and Express. I&apos;m also an aspiring open source contributor, passionate about building impactful tools and learning through collaboration. Recently, I&apos;ve started learning Data Structures and Algorithms (DSA) to sharpen my problem-solving skills and prepare for technical interviews on platforms like LeetCode
           </p>
 
           {/* social links start */}
