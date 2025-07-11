@@ -3,6 +3,7 @@
 import { useState } from "react";
 import ContactModal from "./contactmodal";
 import { AnimatedTooltip } from "../ui/animated-tooltip";
+import { MarqueeDemo } from "./testimonial";
 const people = [
   {
     id: 1,
@@ -129,6 +130,15 @@ export default function ConnectSection() {
           </div>
         </div>
       </section>
+
+      <section className="container mx-auto px-4 mb-16 ">
+        <h2 className="text-2xl font-bold mb-4">Testimonials</h2>
+
+        <MarqueeDemo />
+
+      </section>
+
+
 
 
       <div className="max-w-3xl mx-auto border mb-16 bg-zinc-800/50 border-zinc-700 rounded-xl p-8 text-center">

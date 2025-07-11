@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { BaseTemplate } from "../../config/app-data/templates/base";
 import { UserSocialsData } from "../../config/user-data/socials";
+import { BlurFade } from "../magicui/blur-fade";
 
 export const HeroSection = () => {
   return (
@@ -36,18 +37,25 @@ export const HeroSection = () => {
         <div>
           <div className="flex justify-between gap-4 mb-5">
             <div>
-              <h1 className="text-2xl font-medium mb-4">
-                {BaseTemplate.fullName}
-              </h1>
-              <div className="space-y-2 mb-6">
-                <p className="text-base text-zinc-300 flex items-center gap-2">
-                  <span>📍</span> {BaseTemplate.location}
-                </p>
-                <p className="text-base text-zinc-300 flex items-start gap-2 ">
-                  <span>💻</span>
-                  <div><span className="lol text-white px-1">Full Stack Engineer</span> (Frontend-leaning) & Open Source Contributor</div>
-                </p>
-              </div>
+              <BlurFade delay={0.0001} inView={true}>
+                <h2 className="text-2xl font-medium mb-4">
+                  {BaseTemplate.fullName} 👋
+                </h2>
+              </BlurFade>
+              <BlurFade delay={0.0001*2} inView={true}>
+                <div className="space-y-2 mb-6">
+                  <p className="text-base text-zinc-300 flex items-center gap-2">
+                    <span>📍</span> {BaseTemplate.location}
+                  </p>
+                  <p className="text-base text-zinc-300 flex items-start gap-2 ">
+                    <span>💻</span>
+                    <div>
+                      <span className="lol text-white px-1">Full Stack Engineer</span> (Frontend-leaning) & Open Source Contributor
+                    </div>
+                  </p>
+                </div>
+              </BlurFade>
+
             </div>
 
 

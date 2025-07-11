@@ -50,6 +50,7 @@ export default function RootLayout({
       <body className="antialiased">
         <Toaster />
         {children}
+        
       </body>
     </html>
   );

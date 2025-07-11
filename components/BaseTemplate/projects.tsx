@@ -12,7 +12,7 @@ export const ProjectsSection = () => {
         <div>
           <Link
             href="/projects"
-          
+
             className="text-base hover:text-zinc-400 flex items-center gap-1 group"
           >
             <span className="underline group-hover:decoration-wavy decoration-1">
@@ -29,7 +29,7 @@ export const ProjectsSection = () => {
         {UserProjectsData.map((project, index) => (
           <div
             key={project.title}
-            className="flex flex-col md:flex-row gap-8 items-start"
+            className="flex flex-col md:flex-row  gap-8 items-start"
           >
             {index % 2 === 1 && (
               <div className="hidden lg:block md:w-[300px] flex-shrink-0">
