@@ -19,7 +19,11 @@ export const TechStackGroups = [
 export const TechStackSection = () => {
     return (
         <section className="container mx-auto px-4 mb-16">
-            <h2 className="text-2xl font-bold mb-8">My Tech Stack</h2>
+            <h2 className="text-2xl font-bold mb-2">My Tech Stack</h2>
+             <p className="text-base text-zinc-300 flex  mb-8 items-center ">
+                <span>🧑‍💻</span>     Tools I rely on daily to build clean, scalable, and delightful digital experiences — from code to deployment.
+
+            </p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 {TechStackGroups.map((group, index) => (
                     <div
