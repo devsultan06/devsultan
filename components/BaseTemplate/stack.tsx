@@ -20,7 +20,7 @@ export const TechStackSection = () => {
     return (
         <section className="container mx-auto px-4 mb-16">
             <h2 className="text-2xl font-bold mb-2">My Tech Stack</h2>
-             <p className="text-base text-zinc-300 flex  mb-8 items-center ">
+             <p className="text-base text-zinc-300 flex  mb-8 items-start gap-2">
                 <span>🧑‍💻</span>     Tools I rely on daily to build clean, scalable, and delightful digital experiences — from code to deployment.
 
             </p>

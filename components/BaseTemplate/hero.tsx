@@ -43,7 +43,7 @@ export const HeroSection = () => {
                 <p className="text-base text-zinc-300 flex items-center gap-2">
                   <span>📍</span> {BaseTemplate.location}
                 </p>
-                <p className="text-base text-zinc-300 flex items-center gap-2 ">
+                <p className="text-base text-zinc-300 flex items-start gap-2 ">
                   <span>💻</span>
                   <div><span className="lol text-white px-1">Full Stack Engineer</span> (Frontend-leaning) & Open Source Contributor</div>
                 </p>
