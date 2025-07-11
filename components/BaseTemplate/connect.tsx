@@ -123,7 +123,7 @@ export default function ConnectSection() {
             <div>
               <h3 className="text-base font-semibold text-white mb-1">Iterate & Ship</h3>
               <p className="text-sm text-zinc-400 leading-relaxed">
-                I launch fast,  whether it's Vercel or Netlify, gather feedback, and continuously improve.
+                I launch fast,  whether it&apos;s Vercel or Netlify, gather feedback, and continuously improve.
               </p>
             </div>
           </div>
