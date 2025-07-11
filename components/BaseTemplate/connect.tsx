@@ -61,7 +61,7 @@ export default function ConnectSection() {
           </div>
           <p className="text-sm text-zinc-400">
             I&apos;m working on some open source projects, while actively exploring internships,
-            job opportunities — pretty much anything that helps me grow.
+            job opportunities, pretty much anything that helps me grow.
           </p>
         </div>
       </section>
