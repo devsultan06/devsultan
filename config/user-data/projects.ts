@@ -176,13 +176,5 @@ export const UserProjectsData2: Project[] = [
     url: "https://qrcode-generator06.vercel.app/", // replace with actual
     previewImage: "/images/pro6.png",
   },
-  {
-    title: "Portfolio",
-    role: "Frontend Developer (Client)",
-    description: "A clean portfolio for a UI/UX designer, currently under development.",
-    url: "#", // Or use "" if you prefer
-    previewImage: "/images/l.png",
-  }
-
 
 ];
