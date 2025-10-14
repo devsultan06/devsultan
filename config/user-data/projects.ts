@@ -1,13 +1,12 @@
 export interface Project {
-  title: string
-  role: string
-  description: string
-  url: string
-  previewImage: string
+  title: string;
+  role: string;
+  description: string;
+  url: string;
+  previewImage: string;
 }
 
 export const UserProjectsData: Project[] = [
-
   {
     title: "OpenHealth",
     role: "Frontend Intern",
@@ -39,6 +38,13 @@ export const UserProjectsData: Project[] = [
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
     url: "https://conova.vercel.app/", // replace with actual
     previewImage: "/images/con2.png",
+  },
+  {
+    title: "ClipMind",
+    role: "Full Stack Developer (Side Project)",
+    description: "ClipMind is a tool for summarizing youtube videos using AI.",
+    url: "https://clipmind-eight.vercel.app/", // replace with actual
+    previewImage: "/images/image.png",
   },
   {
     title: "StreamVibe",
@@ -81,12 +87,9 @@ export const UserProjectsData: Project[] = [
     url: "https://sportaai.vercel.app/", // replace with actual
     previewImage: "/images/pro7.png",
   },
-
 ];
 
-
 export const UserProjectsData2: Project[] = [
-
   {
     title: "OpenHealth",
     role: "Frontend Intern",
@@ -176,5 +179,4 @@ export const UserProjectsData2: Project[] = [
     url: "https://qrcode-generator06.vercel.app/", // replace with actual
     previewImage: "/images/pro6.png",
   },
-
 ];
