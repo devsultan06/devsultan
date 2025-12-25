@@ -17,7 +17,7 @@ export const UserProjectsData: Project[] = [
   },
   {
     title: "FutureTech Blog",
-    role: "Full Stack Developer (Side Project)",
+    role: "Full Stack Developer",
     description:
       "A modern tech blog built with Next.js and Supabase, featuring articles on tech trends, tools, and developer insights with seamless content publishing and user management.",
     url: "https://blog06.vercel.app/", // replace with actual
@@ -25,7 +25,7 @@ export const UserProjectsData: Project[] = [
   },
   {
     title: "Splitwise",
-    role: "Frontend Developer (Hackathon Project)",
+    role: "Full Stack Developer",
     description:
       "Split- The - Cost is a web application that helps users track and divide shared expenses easily(e.g., for roommates, trips, or group outings).The app enables users to log expenses, specify participants, and calculate who owes what in a user - friendly way.",
     url: "https://behance-builders.vercel.app/", // replace with actual
@@ -33,7 +33,7 @@ export const UserProjectsData: Project[] = [
   },
   {
     title: "Conova",
-    role: "Frontend Developer (Hackathon Project)",
+    role: "Frontend Developer",
     description:
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
     url: "https://conova.vercel.app/", // replace with actual
@@ -41,14 +41,14 @@ export const UserProjectsData: Project[] = [
   },
   {
     title: "ClipMind",
-    role: "Full Stack Developer (Side Project)",
+    role: "Full Stack Developer",
     description: "ClipMind is a tool for summarizing youtube videos using AI.",
     url: "https://clipmind-eight.vercel.app/", // replace with actual
     previewImage: "/images/image.png",
   },
   {
     title: "StreamVibe",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
     url: "https://streamvibe06.vercel.app", // update if deployed
@@ -56,7 +56,7 @@ export const UserProjectsData: Project[] = [
   },
   {
     title: "Damien",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer",
     description:
       "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
     url: "https://photographer06.vercel.app/", // replace with actual
@@ -81,7 +81,7 @@ export const UserProjectsData: Project[] = [
 
   {
     title: "Sporta-ai",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer",
     description:
       "Sporta AI is an innovative sports- tech company leveraging artificial intelligence to revolutionize performance analytics for athletes, coaches, and teams.",
     url: "https://sportaai.vercel.app/", // replace with actual
@@ -100,7 +100,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "FutureTech Blog",
-    role: "Full Stack Developer (Side Project)",
+    role: "Full Stack Developer",
     description:
       "A modern tech blog built with Next.js and Supabase, featuring articles on tech trends, tools, and developer insights with seamless content publishing and user management.",
     url: "https://blog06.vercel.app/", // replace with actual
@@ -108,7 +108,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "Splitwise",
-    role: "Frontend Developer (Hackathon Project)",
+    role: "Full Stack Developer",
     description:
       "Split- The - Cost is a web application that helps users track and divide shared expenses easily(e.g., for roommates, trips, or group outings).The app enables users to log expenses, specify participants, and calculate who owes what in a user - friendly way.",
     url: "https://behance-builders.vercel.app/", // replace with actual
@@ -116,7 +116,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "Conova",
-    role: "Frontend Developer (Hackathon Project)",
+    role: "Frontend Developer ",
     description:
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
     url: "https://conova.vercel.app/", // replace with actual
@@ -124,7 +124,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "StreamVibe",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
     url: "https://streamvibe06.vercel.app", // update if deployed
@@ -132,7 +132,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "Damien",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer ",
     description:
       "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
     url: "https://photographer06.vercel.app/", // replace with actual
