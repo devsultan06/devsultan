@@ -157,7 +157,7 @@ export const UserProjectsData2: Project[] = [
 
   {
     title: "Sporta-ai",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer ",
     description:
       "Sporta AI is an innovative sports- tech company leveraging artificial intelligence to revolutionize performance analytics for athletes, coaches, and teams.",
     url: "https://sportaai.vercel.app/", // replace with actual
@@ -165,7 +165,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "Organic-mind",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer ",
     description:
       "Organic Mind is customized for individuals seeking a stress-free way to stay focused on their goals, projects, and tasks.",
     url: "https://sportaai.vercel.app/", // replace with actual
@@ -173,7 +173,7 @@ export const UserProjectsData2: Project[] = [
   },
   {
     title: "Qr-code-generator",
-    role: "Frontend Developer (Side Project)",
+    role: "Frontend Developer ",
     description:
       "A clean, confetti-themed web application that allows users to generate QR codes for any URL in seconds. With a simple and interactive UI, users can input a link, click a vibrant Generate QR Code button, and instantly receive a downloadable and copyable QR code. The tool is completely free, requires no sign-up, and offers a fun, user-friendly experience with celebratory animations that enhance user engagement",
     url: "https://qrcode-generator06.vercel.app/", // replace with actual
