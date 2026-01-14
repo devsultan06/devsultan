@@ -3,7 +3,6 @@
 import { useState } from "react";
 import ContactModal from "./contactmodal";
 import { AnimatedTooltip } from "../ui/animated-tooltip";
-import { MarqueeDemo } from "./testimonial";
 const people = [
   {
     id: 1,
@@ -54,18 +53,7 @@ export default function ConnectSection() {
 
   return (
     <>
-      <section className="container mx-auto px-4 mb-16">
-        <h2 className="text-2xl font-bold mb-8">What I&apos;m doing now?</h2>
-        <div className="group relative flex flex-col rounded-xl p-4 hover:bg-zinc-800 transition-colors border border-zinc-700">
-          <div className="gap-4 mb-2">
-            <h3 className="text-lg font-semibold">Exploring Opportunities</h3>
-          </div>
-          <p className="text-sm text-zinc-400">
-            I&apos;m working on some open source projects, while actively exploring internships,
-            job opportunities, pretty much anything that helps me grow.
-          </p>
-        </div>
-      </section>
+    
 
       <section className="container mx-auto px-4 mb-16 ">
         <h2 className="text-2xl font-bold mb-4">Collaborators I Build With</h2>
@@ -130,14 +118,6 @@ export default function ConnectSection() {
           </div>
         </div>
       </section>
-
-      <section className="container mx-auto px-4 mb-16 ">
-        <h2 className="text-2xl font-bold mb-4">Testimonials</h2>
-
-        <MarqueeDemo />
-
-      </section>
-
 
 
 
