@@ -3,7 +3,6 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const ProjectsSection = () => {
-
   return (
     <section className="container mx-auto px-4 mb-16">
       <div className="flex justify-between mb-4">
@@ -12,7 +11,6 @@ export const ProjectsSection = () => {
         <div>
           <Link
             href="/projects"
-
             className="text-base hover:text-zinc-400 flex items-center gap-1 group"
           >
             <span className="underline group-hover:decoration-wavy decoration-1">
@@ -22,7 +20,6 @@ export const ProjectsSection = () => {
               ↗
             </span>
           </Link>
-
         </div>
       </div>
       <div className="space-y-24">
