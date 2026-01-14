@@ -67,12 +67,13 @@ export const HeroSection = () => {
             </span>{" "}
             with a strong focus on building clean, responsive, and user-centered
             interfaces. I work primarily with React, Next.js, Node.js, Express,
-            TypeScript, and Tailwind CSS for the web, and I'm also experienced
-            in building mobile applications with React Native. I'm an aspiring
-            open-source contributor, passionate about building impactful tools
-            and learning through collaboration. I am also deeply passionate
-            about Data Structures and Algorithms (DSA), constantly refining my
-            problem-solving skills to build efficient and scalable software.
+            TypeScript, and Tailwind CSS for the web, and I&apos;m also
+            experienced in building mobile applications with React Native.
+            I&apos;m an aspiring open-source contributor, passionate about
+            building impactful tools and learning through collaboration. I am
+            also deeply passionate about Data Structures and Algorithms (DSA),
+            constantly refining my problem-solving skills to build efficient and
+            scalable software.
           </p>
 
           {/* social links start */}
