@@ -47,6 +47,14 @@ export const UserProjectsData: Project[] = [
     url: "https://conova.vercel.app/", // replace with actual
     previewImage: "/images/con2.png",
   },
+   {
+    title: "Damien",
+    role: "Frontend Developer",
+    description:
+      "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
+    url: "https://photographer06.vercel.app/", // replace with actual
+    previewImage: "/images/pro2.png",
+  },
   {
     title: "ClipMind",
     role: "Full Stack Developer",
@@ -62,14 +70,7 @@ export const UserProjectsData: Project[] = [
     url: "https://streamvibe06.vercel.app", // update if deployed
     previewImage: "/images/pro1.png",
   },
-  {
-    title: "Damien",
-    role: "Frontend Developer",
-    description:
-      "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
-    url: "https://photographer06.vercel.app/", // replace with actual
-    previewImage: "/images/pro2.png",
-  },
+ 
   {
     title: "MediumPilot",
     role: "Open Source Contributor",
