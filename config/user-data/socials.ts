@@ -12,7 +12,7 @@ export const UserSocialsData = {
   },
   twitter: {
     icon: TwitterIcon,
-    url: "https://x.com/devsultan06",
+    url: "https://x.com/sultanabaniks",
   },
   email: {
     icon: Mail,
