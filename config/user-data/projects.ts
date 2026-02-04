@@ -9,7 +9,7 @@ export interface Project {
 export const UserProjectsData: Project[] = [
   {
     title: "OpenHealth",
-    role: "Frontend Intern",
+    role: "Frontend Developer",
     description:
       "OpenHealth is “The first AI-driven preventive health platform built specifically for young Africans.” We are making healthcare a continuous, interactive experience rather than an emergency solution.",
     url: "https://openhealthcoop.com",
@@ -22,6 +22,14 @@ export const UserProjectsData: Project[] = [
       "A modern tech blog built with Next.js and Supabase, featuring articles on tech trends, tools, and developer insights with seamless content publishing and user management.",
     url: "https://blog06.vercel.app/", // replace with actual
     previewImage: "/images/pro4.png",
+  },
+  {
+    title: "YourBank",
+    role: "Full Stack Developer",
+    description:
+      "YourBank is a next-generation digital banking platform engineered for seamless financial management. We are redefining personal banking by combining secure authentication, real-time transaction tracking, and interactive financial insights into a unified, premium user experience.",
+    url: "https://yourbankdigital.vercel.app/", // replace with actual
+    previewImage: "/images/yourbank.png",
   },
   {
     title: "Splitwise",
