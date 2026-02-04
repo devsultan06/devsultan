@@ -11,7 +11,7 @@ export interface IWorkExperience {
 export const UserWorkExperienceData: IWorkExperience[] = [
   {
     company: "Openhealth",
-    position: "Frontend Engineering Intern",
+    position: "Frontend Engineering",
     companyUrl: "https://openhealthcoop.com",
     period: "April 2025 – June 2025",
     shortDescription: "Worked on major frontend revamp and internal tools during a 3-month internship",
