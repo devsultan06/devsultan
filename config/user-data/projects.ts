@@ -33,7 +33,7 @@ export const UserProjectsData: Project[] = [
   },
     {
     title: "LingoPulse",
-    role: "Frontend Developer & UI Architect",
+    role: "Full Stack Developer",
     description:
       "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
     url: "https://lingopulse.vercel.app/", // replace with actual
