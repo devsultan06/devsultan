@@ -31,6 +31,14 @@ export const UserProjectsData: Project[] = [
     url: "https://yourbankdigital.vercel.app/", // replace with actual
     previewImage: "/images/yourbank.png",
   },
+    {
+    title: "LingoPulse",
+    role: "Frontend Developer & UI Architect",
+    description:
+      "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
+    url: "https://lingopulse.vercel.app/", // replace with actual
+    previewImage: "/images/lingo.png", // replace with actual
+  },
   {
     title: "Splitwise",
     role: "Full Stack Developer",
