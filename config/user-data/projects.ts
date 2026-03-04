@@ -24,6 +24,15 @@ export const UserProjectsData: Project[] = [
     previewImage: "/images/pro4.png",
   },
   {
+    title: "Terminally AI",
+    role: "Full Stack Engineer & Creator",
+    description:
+      "Terminally is an intelligent CLI assistant that bridges natural language and the shell. It features a predictive risk engine, visual dry-runs, and context-aware command generation to help developers safely master the terminal without context-switching.",
+    url: "https://github.com/devsultan06/terminally",
+    previewImage: "/images/termi.png",
+},
+
+  {
     title: "YourBank",
     role: "Full Stack Developer",
     description:
