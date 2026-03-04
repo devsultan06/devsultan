@@ -28,7 +28,7 @@ export const UserProjectsData: Project[] = [
     role: "Full Stack Engineer & Creator",
     description:
       "Terminally is an intelligent CLI assistant that bridges natural language and the shell. It features a predictive risk engine, visual dry-runs, and context-aware command generation to help developers safely master the terminal without context-switching.",
-    url: "https://github.com/devsultan06/terminally",
+    url: "https://terminally.vercel.app",
     previewImage: "/images/termi.png",
 },
 
