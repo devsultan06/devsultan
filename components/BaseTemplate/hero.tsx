@@ -37,9 +37,9 @@ export const HeroSection = () => {
           <div className="flex justify-between gap-4 mb-5">
             <div>
               <BlurFade delay={0.0001} inView={true}>
-                <h2 className="text-2xl font-medium mb-4">
+                <h1 className="text-2xl font-medium mb-4">
                   {BaseTemplate.fullName} 👋
-                </h2>
+                </h1>
               </BlurFade>
               <BlurFade delay={0.0001 * 2} inView={true}>
                 <div className="space-y-2 mb-6">
