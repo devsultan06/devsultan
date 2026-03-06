@@ -132,6 +132,31 @@ export const UserProjectsData2: Project[] = [
     url: "https://blog06.vercel.app/", // replace with actual
     previewImage: "/images/pro4.png",
   },
+    {
+    title: "Terminally AI",
+    role: "Full Stack Engineer & Creator",
+    description:
+      "Terminally is an intelligent CLI assistant that bridges natural language and the shell. It features a predictive risk engine, visual dry-runs, and context-aware command generation to help developers safely master the terminal without context-switching.",
+    url: "https://terminally.vercel.app",
+    previewImage: "/images/termi.png",
+},
+
+  {
+    title: "YourBank",
+    role: "Full Stack Developer",
+    description:
+      "YourBank is a next-generation digital banking platform engineered for seamless financial management. We are redefining personal banking by combining secure authentication, real-time transaction tracking, and interactive financial insights into a unified, premium user experience.",
+    url: "https://yourbankdigital.vercel.app/", // replace with actual
+    previewImage: "/images/yourbank.png",
+  },
+    {
+    title: "LingoPulse",
+    role: "Full Stack Developer",
+    description:
+      "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
+    url: "https://lingopulse.vercel.app/", // replace with actual
+    previewImage: "/images/lingo.png", // replace with actual
+  },
   {
     title: "Splitwise",
     role: "Full Stack Developer",
@@ -172,14 +197,14 @@ export const UserProjectsData2: Project[] = [
     url: "https://mediumpilot.vercel.app",
     previewImage: "/images/med.png", // Replace with actual image path if different
   },
-  {
-    title: "Cookie Consent UI",
-    role: "Open Source Contributor (TypeScript Migration)",
-    description:
-      "Contributed to an open-source customizable cookie consent component built with Next.js, Tailwind CSS, and shadcn-ui. Migrated the entire codebase from JavaScript to TypeScript for improved type safety and developer experience.",
-    url: "https://github.com/r2hu1/shadcn-cookie-consent", // Replace with actual repo link
-    previewImage: "/images/shad.png", // Replace with actual image if you have one
-  },
+  // {
+  //   title: "Cookie Consent UI",
+  //   role: "Open Source Contributor (TypeScript Migration)",
+  //   description:
+  //     "Contributed to an open-source customizable cookie consent component built with Next.js, Tailwind CSS, and shadcn-ui. Migrated the entire codebase from JavaScript to TypeScript for improved type safety and developer experience.",
+  //   url: "https://github.com/r2hu1/shadcn-cookie-consent", // Replace with actual repo link
+  //   previewImage: "/images/shad.png", // Replace with actual image if you have one
+  // },
 
   {
     title: "Sporta-ai",
