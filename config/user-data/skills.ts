@@ -7,7 +7,7 @@ export const UserSkillsData = [
   {
     name: "Backend Development",
     description: "Development of complex and scalable backend architecture.",
-    projects_completed: "1+",
+    projects_completed: "3+",
   },
   // {
   //   name: "API Integration",

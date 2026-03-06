@@ -50,7 +50,7 @@ export const HeroSection = () => {
                     <span>💻</span>
                     <div>
                       <span className="lol text-white px-1">
-                        Full-Stack Web & Mobile Developer (Frontend-leaning)
+                        Full-Stack JavaScript Developer
                       </span>
                       & Open Source Contributor
                     </div>
@@ -63,17 +63,15 @@ export const HeroSection = () => {
           <p className="text-base text-zinc-300 leading-relaxed mb-8 break-words">
             I&apos;m a{" "}
             <span className="lol text-white px-1">
-              Full-Stack Web & Mobile Developer
+              Full-Stack JavaScript Developer
             </span>{" "}
-            with a strong focus on building clean, responsive, and user-centered
-            interfaces. I work primarily with React, Next.js, Node.js, Express,
-            TypeScript, and Tailwind CSS for the web, and I&apos;m also
-            experienced in building mobile applications with React Native.
-            I&apos;m an aspiring open-source contributor, passionate about
-            building impactful tools and learning through collaboration. I am
-            also deeply passionate about Data Structures and Algorithms (DSA),
-            constantly refining my problem-solving skills to build efficient and
-            scalable software.
+            experienced in building modern web and mobile applications using
+            React, Next.js, Node.js, NestJS, and React Native. Proficient in
+            developing clean, responsive, and user-centered interfaces and
+            designing RESTful APIs, I specialize in building scalable backend
+            architectures with TypeScript, Express, and Tailwind CSS. Focused on
+            performance, maintainability, and delivering excellent user
+            experiences.
           </p>
 
           {/* social links start */}
@@ -102,7 +100,7 @@ export const HeroSection = () => {
                       </span>
                     </Link>
                   );
-                }
+                },
               )}
             </div>
           )}

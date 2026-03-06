@@ -15,7 +15,7 @@ export const TechStackGroups = [
   },
   {
     title: "Backend",
-    items: ["Node.js", "Express", "MongoDB", "Supabase"],
+    items: ["Node.js", "Express", "MongoDB", "Supabase", "PostgreSQL", "Firebase", "NestJS"],
   },
   {
     title: "Tools",
