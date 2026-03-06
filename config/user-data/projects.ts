@@ -96,14 +96,14 @@ export const UserProjectsData: Project[] = [
     url: "https://mediumpilot.vercel.app",
     previewImage: "/images/med.png", // Replace with actual image path if different
   },
-  {
-    title: "Cookie Consent UI",
-    role: "Open Source Contributor (TypeScript Migration)",
-    description:
-      "Contributed to an open-source customizable cookie consent component built with Next.js, Tailwind CSS, and shadcn-ui. Migrated the entire codebase from JavaScript to TypeScript for improved type safety and developer experience.",
-    url: "https://github.com/r2hu1/shadcn-cookie-consent", // Replace with actual repo link
-    previewImage: "/images/shad.png", // Replace with actual image if you have one
-  },
+  // {
+  //   title: "Cookie Consent UI",
+  //   role: "Open Source Contributor (TypeScript Migration)",
+  //   description:
+  //     "Contributed to an open-source customizable cookie consent component built with Next.js, Tailwind CSS, and shadcn-ui. Migrated the entire codebase from JavaScript to TypeScript for improved type safety and developer experience.",
+  //   url: "https://github.com/r2hu1/shadcn-cookie-consent", // Replace with actual repo link
+  //   previewImage: "/images/shad.png", // Replace with actual image if you have one
+  // },
 
   {
     title: "Sporta-ai",
