@@ -50,7 +50,7 @@ export const HeroSection = () => {
                     <span>💻</span>
                     <div>
                       <span className="lol text-white px-1">
-                        Full-Stack JavaScript Developer
+                        Full-Stack & Smart Contract Developer
                       </span>
                       & Open Source Contributor
                     </div>
@@ -63,16 +63,23 @@ export const HeroSection = () => {
           <p className="text-base text-zinc-300 leading-relaxed mb-8 break-words">
             I&apos;m a{" "}
             <span className="lol text-white px-1">
-              Full-Stack JavaScript Developer
+              Full-Stack & Smart Contract Developer
             </span>{" "}
-            experienced in building modern web and mobile applications using
-            React, Next.js, Node.js, NestJS, and React Native. Proficient in
-            developing clean, responsive, and user-centered interfaces and
-            designing RESTful APIs, I specialize in building scalable backend
-            architectures with TypeScript, Express, and Tailwind CSS. Focused on
-            performance, maintainability, and delivering excellent user
-            experiences.
+            experienced in building modern web, mobile, and decentralized
+            applications. Proficient in developing clean, responsive interfaces with{" "}
+            <span className="text-white">React, Next.js</span> and designing scalable
+            backend architectures with{" "}
+            <span className="text-white">Node.js</span> and{" "}
+            <span className="text-white">NestJS</span>. I also specialize in
+            architecting secure, optimized smart contracts using{" "}
+            <span className="text-white">Solidity</span> and{" "}
+            <span className="text-white">Foundry</span>—bridging the gap between
+            traditional systems and the blockchain with a focus on performance,
+            security, and delivering excellent user experiences.
           </p>
+
+
+
 
           {/* social links start */}
           {BaseTemplate.features.SOCIALS_SECTION && (

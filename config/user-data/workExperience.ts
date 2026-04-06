@@ -9,6 +9,7 @@ export interface IWorkExperience {
 }
 
 export const UserWorkExperienceData: IWorkExperience[] = [
+ 
   {
     company: "Openhealth",
     position: "Frontend Engineering",
@@ -23,7 +24,6 @@ export const UserWorkExperienceData: IWorkExperience[] = [
       "Provided UI/UX suggestions to improve user experience and accessibility",
       "Advised the team on modern frontend best practices and user data security",
       "Collaborated with backend developers to ensure seamless integration"
-
     ]
   },
   {
@@ -39,5 +39,18 @@ export const UserWorkExperienceData: IWorkExperience[] = [
       "Adapted quickly to client requirements, demonstrating problem-solving and technical flexibility"
     ]
   },
-
+   {
+    company: "Freelance / Web3 Projects",
+    position: "Solidity & Smart Contract Developer (Hackathon)",
+    period: "February 2026 – March 2026",
+    shortDescription: "Specializing in secure smart contract development and decentralized application architecture.",
+    responsibilities: [
+      "Designing and implementing secure, optimized smart contracts using Solidity.",
+      "Utilizing Foundry for robust testing, security auditing, and automated deployment pipelines.",
+      "Developing decentralized applications (dApps) with seamless blockchain integration.",
+      "Optimizing gas consumption for contract interactions to improve cost-efficiency.",
+      "Conducting code reviews and implementing security best practices to prevent vulnerabilities.",
+    ]
+  },
 ];
+

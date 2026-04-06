@@ -1,6 +1,6 @@
 // config/user-data/tech-stack.ts
 export const TechStackGroups = [
-  {
+   {
     title: "Frontend",
     items: [
       "React",
@@ -8,20 +8,33 @@ export const TechStackGroups = [
       "TypeScript",
       "Tailwind CSS",
       "React Native",
-      "Flutter",
-      "Firebase",
-      "Shadcn/Material UI",
+      "Shadcn/UI",
     ],
   },
   {
     title: "Backend",
-    items: ["Node.js", "Express", "MongoDB", "Supabase", "PostgreSQL", "Firebase", "NestJS"],
+    items: ["Node.js", "Express", "MongoDB", "Supabase", "PostgreSQL", "NestJS"],
   },
   {
+    title: "Web3 / Blockchain",
+    items: [
+      "Solidity",
+      "Foundry",
+      "Ethers.js",
+      "Viem",
+      "Wagmi",
+      "Hardhat",
+      "Chainlink",
+      "The Graph",
+    ],
+  },
+ 
+  {
     title: "Tools",
-    items: ["Git", "GitHub", "Postman", "Figma", "Vercel", "Vscode"],
+    items: ["Git", "GitHub", "Postman", "Figma", "Vercel", "Vscode", "Docker"],
   },
 ];
+
 
 export const TechStackSection = () => {
   return (

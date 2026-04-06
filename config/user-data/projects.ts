@@ -15,6 +15,8 @@ export const UserProjectsData: Project[] = [
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
   },
+  
+
   {
     title: "FutureTech Blog",
     role: "Full Stack Developer",
@@ -72,6 +74,15 @@ export const UserProjectsData: Project[] = [
     url: "https://photographer06.vercel.app/", // replace with actual
     previewImage: "/images/pro2.png",
   },
+  {
+    title: "Lanfriq",
+    role: "Lead Smart Contract Developer",
+    description:
+      "A premium real estate investment platform for African assets, enabling fractional property ownership through secure SPV structures and NFT-backed receipts, ensuring transparency, liquidity, and accessibility.",
+    url: "https://lanfriq6.vercel.app/",
+    previewImage: "/images/lan.png",
+  },
+
   {
     title: "ClipMind",
     role: "Full Stack Developer",
