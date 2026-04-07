@@ -22,7 +22,7 @@ export const UserProjectsData: Project[] = [
     role: "Full Stack Developer",
     description:
       "A modern tech blog built with Next.js and Supabase, featuring articles on tech trends, tools, and developer insights with seamless content publishing and user management.",
-    url: "https://blog06.vercel.app/", // replace with actual
+    url: "https://blog06.vercel.app/", 
     previewImage: "/images/pro4.png",
   },
   {
@@ -39,7 +39,7 @@ export const UserProjectsData: Project[] = [
     role: "Full Stack Developer",
     description:
       "YourBank is a next-generation digital banking platform engineered for seamless financial management. We are redefining personal banking by combining secure authentication, real-time transaction tracking, and interactive financial insights into a unified, premium user experience.",
-    url: "https://yourbankdigital.vercel.app/", // replace with actual
+    url: "https://yourbankdigital.vercel.app/", 
     previewImage: "/images/yourbank.png",
   },
     {
@@ -47,15 +47,15 @@ export const UserProjectsData: Project[] = [
     role: "Full Stack Developer",
     description:
       "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
-    url: "https://lingopulse.vercel.app/", // replace with actual
-    previewImage: "/images/lingo.png", // replace with actual
+    url: "https://lingopulse.vercel.app/", 
+    previewImage: "/images/lingo.png", 
   },
   {
     title: "Splitwise",
     role: "Full Stack Developer",
     description:
       "Split- The - Cost is a web application that helps users track and divide shared expenses easily(e.g., for roommates, trips, or group outings).The app enables users to log expenses, specify participants, and calculate who owes what in a user - friendly way.",
-    url: "https://behance-builders.vercel.app/", // replace with actual
+    url: "https://behance-builders.vercel.app/", 
     previewImage: "/images/pro3.png",
   },
   {
@@ -63,7 +63,7 @@ export const UserProjectsData: Project[] = [
     role: "Frontend Developer",
     description:
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
-    url: "https://conova.vercel.app/", // replace with actual
+    url: "https://conova.vercel.app/", 
     previewImage: "/images/con2.png",
   },
    {
@@ -71,7 +71,7 @@ export const UserProjectsData: Project[] = [
     role: "Frontend Developer",
     description:
       "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
-    url: "https://photographer06.vercel.app/", // replace with actual
+    url: "https://photographer06.vercel.app/", 
     previewImage: "/images/pro2.png",
   },
   {
@@ -87,7 +87,7 @@ export const UserProjectsData: Project[] = [
     title: "ClipMind",
     role: "Full Stack Developer",
     description: "ClipMind is a tool for summarizing youtube videos using AI.",
-    url: "https://clipmind-eight.vercel.app/", // replace with actual
+    url: "https://clipmind-eight.vercel.app/", 
     previewImage: "/images/image.png",
   },
   {
@@ -95,7 +95,7 @@ export const UserProjectsData: Project[] = [
     role: "Frontend Developer",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe06.vercel.app", // update if deployed
+    url: "https://streamvibe06.vercel.app", 
     previewImage: "/images/pro1.png",
   },
  
@@ -105,7 +105,7 @@ export const UserProjectsData: Project[] = [
     description:
       "MediumPilot is a free, open-source tool that automatically shares your latest Medium articles to LinkedIn — no coding required. Users sign in with Google, provide their Medium RSS feed and LinkedIn credentials, and the app handles the rest.",
     url: "https://mediumpilot.vercel.app",
-    previewImage: "/images/med.png", // Replace with actual image path if different
+    previewImage: "/images/med.png", 
   },
   // {
   //   title: "Cookie Consent UI",
@@ -151,13 +151,21 @@ export const UserProjectsData2: Project[] = [
     url: "https://terminally.vercel.app",
     previewImage: "/images/termi.png",
 },
+  {
+    title: "Lanfriq",
+    role: "Lead Smart Contract Developer",
+    description:
+      "A premium real estate investment platform for African assets, enabling fractional property ownership through secure SPV structures and NFT-backed receipts, ensuring transparency, liquidity, and accessibility.",
+    url: "https://lanfriq6.vercel.app/",
+    previewImage: "/images/lan.png",
+  },
 
   {
     title: "YourBank",
     role: "Full Stack Developer",
     description:
       "YourBank is a next-generation digital banking platform engineered for seamless financial management. We are redefining personal banking by combining secure authentication, real-time transaction tracking, and interactive financial insights into a unified, premium user experience.",
-    url: "https://yourbankdigital.vercel.app/", // replace with actual
+    url: "https://yourbankdigital.vercel.app/", 
     previewImage: "/images/yourbank.png",
   },
     {
@@ -165,15 +173,15 @@ export const UserProjectsData2: Project[] = [
     role: "Full Stack Developer",
     description:
       "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
-    url: "https://lingopulse.vercel.app/", // replace with actual
-    previewImage: "/images/lingo.png", // replace with actual
+    url: "https://lingopulse.vercel.app/", 
+    previewImage: "/images/lingo.png", 
   },
   {
     title: "Splitwise",
     role: "Full Stack Developer",
     description:
       "Split- The - Cost is a web application that helps users track and divide shared expenses easily(e.g., for roommates, trips, or group outings).The app enables users to log expenses, specify participants, and calculate who owes what in a user - friendly way.",
-    url: "https://behance-builders.vercel.app/", // replace with actual
+    url: "https://behance-builders.vercel.app/", 
     previewImage: "/images/pro3.png",
   },
   {
@@ -181,7 +189,7 @@ export const UserProjectsData2: Project[] = [
     role: "Frontend Developer ",
     description:
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
-    url: "https://conova.vercel.app/", // replace with actual
+    url: "https://conova.vercel.app/", 
     previewImage: "/images/con2.png",
   },
   {
@@ -189,7 +197,7 @@ export const UserProjectsData2: Project[] = [
     role: "Frontend Developer",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe06.vercel.app", // update if deployed
+    url: "https://streamvibe06.vercel.app", 
     previewImage: "/images/pro1.png",
   },
   {
@@ -197,7 +205,7 @@ export const UserProjectsData2: Project[] = [
     role: "Frontend Developer ",
     description:
       "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
-    url: "https://photographer06.vercel.app/", // replace with actual
+    url: "https://photographer06.vercel.app/", 
     previewImage: "/images/pro2.png",
   },
   {
@@ -206,7 +214,7 @@ export const UserProjectsData2: Project[] = [
     description:
       "MediumPilot is a free, open-source tool that automatically shares your latest Medium articles to LinkedIn — no coding required. Users sign in with Google, provide their Medium RSS feed and LinkedIn credentials, and the app handles the rest.",
     url: "https://mediumpilot.vercel.app",
-    previewImage: "/images/med.png", // Replace with actual image path if different
+    previewImage: "/images/med.png", 
   },
   // {
   //   title: "Cookie Consent UI",

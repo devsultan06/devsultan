@@ -66,9 +66,9 @@ export const HeroSection = () => {
               Full-Stack & Smart Contract Developer
             </span>{" "}
             experienced in building modern web, mobile, and decentralized
-            applications. Proficient in developing clean, responsive interfaces with{" "}
-            <span className="text-white">React, Next.js</span> and designing scalable
-            backend architectures with{" "}
+            applications. Proficient in developing clean, responsive interfaces
+            with <span className="text-white">React, Next.js</span> and
+            designing scalable backend architectures with{" "}
             <span className="text-white">Node.js</span> and{" "}
             <span className="text-white">NestJS</span>. I also specialize in
             architecting secure, optimized smart contracts using{" "}
@@ -77,9 +77,6 @@ export const HeroSection = () => {
             traditional systems and the blockchain with a focus on performance,
             security, and delivering excellent user experiences.
           </p>
-
-
-
 
           {/* social links start */}
           {BaseTemplate.features.SOCIALS_SECTION && (
