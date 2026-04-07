@@ -28,16 +28,18 @@ export const UserWorkExperienceData: IWorkExperience[] = [
   },
   {
     company: "Freelance",
-    position: "Frontend Developer",
+    position: "Full-Stack Developer",
+    companyUrl: "http://one-growth.com/",
     period: "October 2024 – December 2024",
     shortDescription: "Delivered tailored web applications for clients as a freelance developer",
     responsibilities: [
-      "Developed custom web applications using React.js, Tailwind CSS, and JavaScript",
-      "Collaborated with clients, backend developers, and designers to build feature-rich solutions",
-      "Managed full project lifecycle from wireframing to deployment and maintenance",
-      "Maintained clear communication with clients and incorporated regular feedback",
-      "Adapted quickly to client requirements, demonstrating problem-solving and technical flexibility"
+      "Designed and built a high-performance Landing Page using Next.js and Tailwind CSS, focusing on a modern and clean look.",
+      "Built the full-stack architecture for the platform, including the Super Admin panel and the User Dashboard.",
+      "Developed key features such as an automated newsletter system and a professional PDF receipt generator using Puppeteer.",
+      "Created the backend system using Node.js and Prisma to manage accounts, content, and payments.",
+      "Managed the entire product lifecycle from initial design and development to full deployment."
     ]
+
   },
    {
     company: "Freelance / Web3 Projects",
