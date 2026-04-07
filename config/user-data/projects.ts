@@ -15,14 +15,13 @@ export const UserProjectsData: Project[] = [
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
   },
-  
 
   {
     title: "FutureTech Blog",
     role: "Full Stack Developer",
     description:
       "A modern tech blog built with Next.js and Supabase, featuring articles on tech trends, tools, and developer insights with seamless content publishing and user management.",
-    url: "https://blog06.vercel.app/", 
+    url: "https://blog06.vercel.app/",
     previewImage: "/images/pro4.png",
   },
   {
@@ -32,46 +31,54 @@ export const UserProjectsData: Project[] = [
       "Terminally is an intelligent CLI assistant that bridges natural language and the shell. It features a predictive risk engine, visual dry-runs, and context-aware command generation to help developers safely master the terminal without context-switching.",
     url: "https://terminally.vercel.app",
     previewImage: "/images/termi.png",
-},
+  },
 
   {
     title: "YourBank",
     role: "Full Stack Developer",
     description:
       "YourBank is a next-generation digital banking platform engineered for seamless financial management. We are redefining personal banking by combining secure authentication, real-time transaction tracking, and interactive financial insights into a unified, premium user experience.",
-    url: "https://yourbankdigital.vercel.app/", 
+    url: "https://yourbankdigital.vercel.app/",
     previewImage: "/images/yourbank.png",
   },
-    {
+  {
     title: "LingoPulse",
     role: "Full Stack Developer",
     description:
       "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
-    url: "https://lingopulse.vercel.app/", 
-    previewImage: "/images/lingo.png", 
+    url: "https://lingopulse.vercel.app/",
+    previewImage: "/images/lingo.png",
   },
   {
     title: "Splitwise",
     role: "Full Stack Developer",
     description:
       "Split- The - Cost is a web application that helps users track and divide shared expenses easily(e.g., for roommates, trips, or group outings).The app enables users to log expenses, specify participants, and calculate who owes what in a user - friendly way.",
-    url: "https://behance-builders.vercel.app/", 
+    url: "https://behance-builders.vercel.app/",
     previewImage: "/images/pro3.png",
+  },
+  {
+    title: "Agrohive",
+    role: "Full Stack Developer",
+    description:
+      "A comprehensive, modern agricultural ecosystem designed to empower farmers and streamline agricultural commerce. The platform features a cross-platform mobile app for real-time market access and community networking, a conversion-focused landing page, and a powerful web admin dashboard for live revenue and inventory tracking. Driven by a robust NestJS and PostgreSQL backend, AgroHive seamlessly integrates secure Paystack payments, geolocated weather updates, and dynamic farming guides to create an all-in-one digital hub for modern agriculture.",
+    url: "https://agrohive.vercel.app/",
+    previewImage: "/images/ag.png",
   },
   {
     title: "Conova",
     role: "Frontend Developer",
     description:
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
-    url: "https://conova.vercel.app/", 
+    url: "https://conova.vercel.app/",
     previewImage: "/images/con2.png",
   },
-   {
+  {
     title: "Damien",
     role: "Frontend Developer",
     description:
       "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
-    url: "https://photographer06.vercel.app/", 
+    url: "https://photographer06.vercel.app/",
     previewImage: "/images/pro2.png",
   },
   {
@@ -87,7 +94,7 @@ export const UserProjectsData: Project[] = [
     title: "ClipMind",
     role: "Full Stack Developer",
     description: "ClipMind is a tool for summarizing youtube videos using AI.",
-    url: "https://clipmind-eight.vercel.app/", 
+    url: "https://clipmind-eight.vercel.app/",
     previewImage: "/images/image.png",
   },
   {
@@ -95,17 +102,17 @@ export const UserProjectsData: Project[] = [
     role: "Frontend Developer",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe06.vercel.app", 
+    url: "https://streamvibe06.vercel.app",
     previewImage: "/images/pro1.png",
   },
- 
+
   {
     title: "MediumPilot",
     role: "Open Source Contributor",
     description:
       "MediumPilot is a free, open-source tool that automatically shares your latest Medium articles to LinkedIn — no coding required. Users sign in with Google, provide their Medium RSS feed and LinkedIn credentials, and the app handles the rest.",
     url: "https://mediumpilot.vercel.app",
-    previewImage: "/images/med.png", 
+    previewImage: "/images/med.png",
   },
   // {
   //   title: "Cookie Consent UI",
@@ -143,14 +150,14 @@ export const UserProjectsData2: Project[] = [
     url: "https://blog06.vercel.app/", // replace with actual
     previewImage: "/images/pro4.png",
   },
-    {
+  {
     title: "Terminally AI",
     role: "Full Stack Engineer & Creator",
     description:
       "Terminally is an intelligent CLI assistant that bridges natural language and the shell. It features a predictive risk engine, visual dry-runs, and context-aware command generation to help developers safely master the terminal without context-switching.",
     url: "https://terminally.vercel.app",
     previewImage: "/images/termi.png",
-},
+  },
   {
     title: "Lanfriq",
     role: "Lead Smart Contract Developer",
@@ -165,31 +172,39 @@ export const UserProjectsData2: Project[] = [
     role: "Full Stack Developer",
     description:
       "YourBank is a next-generation digital banking platform engineered for seamless financial management. We are redefining personal banking by combining secure authentication, real-time transaction tracking, and interactive financial insights into a unified, premium user experience.",
-    url: "https://yourbankdigital.vercel.app/", 
+    url: "https://yourbankdigital.vercel.app/",
     previewImage: "/images/yourbank.png",
   },
-    {
+  {
     title: "LingoPulse",
     role: "Full Stack Developer",
     description:
       "A real-time multilingual communication platform featuring an intelligent translation engine with dual-language views. It breaks language barriers across five major languages (EN, FR, ES, AR, HA) within a bold, synchronized Neubrutalist design system.",
-    url: "https://lingopulse.vercel.app/", 
-    previewImage: "/images/lingo.png", 
+    url: "https://lingopulse.vercel.app/",
+    previewImage: "/images/lingo.png",
   },
   {
     title: "Splitwise",
     role: "Full Stack Developer",
     description:
       "Split- The - Cost is a web application that helps users track and divide shared expenses easily(e.g., for roommates, trips, or group outings).The app enables users to log expenses, specify participants, and calculate who owes what in a user - friendly way.",
-    url: "https://behance-builders.vercel.app/", 
+    url: "https://behance-builders.vercel.app/",
     previewImage: "/images/pro3.png",
+  },
+    {
+    title: "Agrohive",
+    role: "Full Stack Developer",
+    description:
+      "A comprehensive, modern agricultural ecosystem designed to empower farmers and streamline agricultural commerce. The platform features a cross-platform mobile app for real-time market access and community networking, a conversion-focused landing page, and a powerful web admin dashboard for live revenue and inventory tracking. Driven by a robust NestJS and PostgreSQL backend, AgroHive seamlessly integrates secure Paystack payments, geolocated weather updates, and dynamic farming guides to create an all-in-one digital hub for modern agriculture.",
+    url: "https://agrohive.vercel.app/",
+    previewImage: "/images/ag.png",
   },
   {
     title: "Conova",
     role: "Frontend Developer ",
     description:
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
-    url: "https://conova.vercel.app/", 
+    url: "https://conova.vercel.app/",
     previewImage: "/images/con2.png",
   },
   {
@@ -197,7 +212,7 @@ export const UserProjectsData2: Project[] = [
     role: "Frontend Developer",
     description:
       "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe06.vercel.app", 
+    url: "https://streamvibe06.vercel.app",
     previewImage: "/images/pro1.png",
   },
   {
@@ -205,7 +220,7 @@ export const UserProjectsData2: Project[] = [
     role: "Frontend Developer ",
     description:
       "A bold, modern photography portfolio website designed for Damien Braun, showcasing his stunning photographic work across various categories like fashion, product, commercial, and wedding photography. The site features a sleek dark theme, a high-contrast layout, and a modular image grid that emphasizes visual storytelling.",
-    url: "https://photographer06.vercel.app/", 
+    url: "https://photographer06.vercel.app/",
     previewImage: "/images/pro2.png",
   },
   {
@@ -214,7 +229,7 @@ export const UserProjectsData2: Project[] = [
     description:
       "MediumPilot is a free, open-source tool that automatically shares your latest Medium articles to LinkedIn — no coding required. Users sign in with Google, provide their Medium RSS feed and LinkedIn credentials, and the app handles the rest.",
     url: "https://mediumpilot.vercel.app",
-    previewImage: "/images/med.png", 
+    previewImage: "/images/med.png",
   },
   // {
   //   title: "Cookie Consent UI",
