@@ -30,7 +30,7 @@ export const UserWorkExperienceData: IWorkExperience[] = [
     company: "Freelance",
     position: "Full-Stack Developer",
     companyUrl: "http://one-growth.com/",
-    period: "October 2024 – December 2024",
+    period: "February 2026 – March 2026",
     shortDescription: "Delivered tailored web applications for clients as a freelance developer",
     responsibilities: [
       "Designed and built a high-performance Landing Page using Next.js and Tailwind CSS, focusing on a modern and clean look.",
