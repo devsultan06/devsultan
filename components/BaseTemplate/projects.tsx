@@ -7,8 +7,7 @@ export const ProjectsSection = () => {
     <section className="container mx-auto px-4 mb-16">
       <div className="flex justify-between mb-4">
         <h2 className="text-2xl font-bold mb-8">Projects</h2>
-
-        <div>
+           <div>
           <Link
             href="/projects"
             className="text-base hover:text-zinc-400 flex items-center gap-1 group"
@@ -87,6 +86,19 @@ export const ProjectsSection = () => {
           </div>
         ))}
       </div>
+
+      <div className="flex justify-center mt-20 mb-12">
+        <Link
+          href="/projects"
+          className="group relative px-10 py-4 overflow-hidden rounded-xl bg-zinc-900 border border-zinc-800 text-zinc-100 transition-all hover:border-zinc-500 hover:bg-zinc-800/50 shadow-2xl"
+        >
+          <div className="absolute inset-0 w-1 bg-zinc-400/10 transition-all duration-500 group-hover:w-full" />
+          <span className="relative flex items-center gap-3 text-md font-medium">
+            View all projects
+          </span>
+        </Link>
+      </div>
     </section>
+
   );
 };

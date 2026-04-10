@@ -15,6 +15,14 @@ export const UserProjectsData: Project[] = [
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
   },
+  {
+    title: "Onegrowth",
+    role: "Full Stack Developer",
+    description:
+      "Onegrowth is a premium mentorship and digital resource platform designed to help users scale their personal and professional lives through structured learning, consistency tracking, and exclusive digital assets.",
+    url: "http://one-growth.com/",
+    previewImage: "/images/one.png",
+  },
 
   {
     title: "FutureTech Blog",
@@ -90,30 +98,6 @@ export const UserProjectsData: Project[] = [
     previewImage: "/images/lan.png",
   },
 
-  {
-    title: "ClipMind",
-    role: "Full Stack Developer",
-    description: "ClipMind is a tool for summarizing youtube videos using AI.",
-    url: "https://clipmind-eight.vercel.app/",
-    previewImage: "/images/image.png",
-  },
-  {
-    title: "StreamVibe",
-    role: "Frontend Developer",
-    description:
-      "A subscription-based streaming platform built with ReactJS and Tailwind CSS, delivering a vast collection of TV shows, movies, anime, and documentaries across internet-connected devices.",
-    url: "https://streamvibe06.vercel.app",
-    previewImage: "/images/pro1.png",
-  },
-
-  {
-    title: "MediumPilot",
-    role: "Open Source Contributor",
-    description:
-      "MediumPilot is a free, open-source tool that automatically shares your latest Medium articles to LinkedIn — no coding required. Users sign in with Google, provide their Medium RSS feed and LinkedIn credentials, and the app handles the rest.",
-    url: "https://mediumpilot.vercel.app",
-    previewImage: "/images/med.png",
-  },
   // {
   //   title: "Cookie Consent UI",
   //   role: "Open Source Contributor (TypeScript Migration)",
@@ -123,14 +107,7 @@ export const UserProjectsData: Project[] = [
   //   previewImage: "/images/shad.png", // Replace with actual image if you have one
   // },
 
-  {
-    title: "Sporta-ai",
-    role: "Frontend Developer",
-    description:
-      "Sporta AI is an innovative sports- tech company leveraging artificial intelligence to revolutionize performance analytics for athletes, coaches, and teams.",
-    url: "https://sportaai.vercel.app/", // replace with actual
-    previewImage: "/images/pro7.png",
-  },
+
 ];
 
 export const UserProjectsData2: Project[] = [
@@ -141,6 +118,14 @@ export const UserProjectsData2: Project[] = [
       "OpenHealth is “The first AI-driven preventive health platform built specifically for young Africans.” We are making healthcare a continuous, interactive experience rather than an emergency solution.",
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
+  },
+    {
+    title: "Onegrowth",
+    role: "Full Stack Developer",
+    description:
+      "Onegrowth is a premium mentorship and digital resource platform designed to help users scale their personal and professional lives through structured learning, consistency tracking, and exclusive digital assets.",
+    url: "http://one-growth.com/",
+    previewImage: "/images/one.png",
   },
   {
     title: "FutureTech Blog",
@@ -206,6 +191,13 @@ export const UserProjectsData2: Project[] = [
       "Conova is a smart workspace booking platform built for teams and organizations to manage physical spaces like offices, meeting rooms, or learning hubs.",
     url: "https://conova.vercel.app/",
     previewImage: "/images/con2.png",
+  },
+    {
+    title: "ClipMind",
+    role: "Full Stack Developer",
+    description: "ClipMind is a tool for summarizing youtube videos using AI.",
+    url: "https://clipmind-eight.vercel.app/",
+    previewImage: "/images/image.png",
   },
   {
     title: "StreamVibe",
