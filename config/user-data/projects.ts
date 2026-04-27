@@ -20,7 +20,7 @@ export const UserProjectsData: Project[] = [
     role: "Full Stack Developer",
     description:
       "Onegrowth is a premium mentorship and digital resource platform designed to help users scale their personal and professional lives through structured learning, consistency tracking, and exclusive digital assets.",
-    url: "http://one-growth.com/",
+    url: "https://www.one-growth.com/",
     previewImage: "/images/one.png",
   },
 
@@ -124,7 +124,7 @@ export const UserProjectsData2: Project[] = [
     role: "Full Stack Developer",
     description:
       "Onegrowth is a premium mentorship and digital resource platform designed to help users scale their personal and professional lives through structured learning, consistency tracking, and exclusive digital assets.",
-    url: "http://one-growth.com/",
+    url: "https://www.one-growth.com/",
     previewImage: "/images/one.png",
   },
   {
