@@ -11,13 +11,13 @@ export const UserSkillsData = [
   },
   {
     name: "Smart Contract Development",
-    description: "Developing secure and optimized smart contracts using Solidity.",
-    projects_completed: "2+",
+    description: "Developing secure and optimized smart contracts using Rust and Anchor on Solana.",
+    projects_completed: "1+",
   },
   {
     name: "Blockchain Tooling",
-    description: "Proficient in using Foundry for testing, debugging, and deploying smart contracts.",
-    projects_completed: "2+",
+    description: "Proficient in using Anchor and Solana CLI for testing, debugging, and deploying smart contracts.",
+    projects_completed: "1+",
   },
 
 ];

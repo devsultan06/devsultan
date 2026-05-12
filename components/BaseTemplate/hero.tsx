@@ -71,10 +71,11 @@ export const HeroSection = () => {
             <span className="text-white">Node.js</span> and{" "}
             <span className="text-white">NestJS</span>. I also specialize in
             architecting secure, optimized smart contracts using{" "}
-            <span className="text-white">Solidity</span> and{" "}
-            <span className="text-white">Foundry</span>—bridging the gap between
-            traditional systems and the blockchain with a focus on performance,
-            security, and delivering excellent user experiences.
+            <span className="text-white">Rust</span> and{" "}
+            <span className="text-white">Anchor</span>—building high-performance 
+            applications on <span className="text-white">Solana</span> while 
+            bridging the gap between traditional systems and the blockchain with 
+            a focus on security and scalability.
           </p>
 
           {/* social links start */}

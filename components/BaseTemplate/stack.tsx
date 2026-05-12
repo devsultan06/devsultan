@@ -18,14 +18,14 @@ export const TechStackGroups = [
   {
     title: "Web3 / Blockchain",
     items: [
-      "Solidity",
-      "Foundry",
-      "Ethers.js",
-      "Viem",
-      "Wagmi",
-      "Hardhat",
-      "Chainlink",
-      "The Graph",
+      "Rust",
+      "Anchor",
+      "Solana Web3.js",
+      "SPL-Token",
+      "Metaplex",
+      "Solana CLI",
+      "Helius",
+      "Phantom",
     ],
   },
  
