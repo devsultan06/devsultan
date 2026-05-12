@@ -52,7 +52,6 @@ export const HeroSection = () => {
                       <span className="lol text-white px-1">
                         Full-Stack & Smart Contract Developer
                       </span>
-                      & Open Source Contributor
                     </div>
                   </p>
                 </div>

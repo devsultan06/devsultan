@@ -20,10 +20,5 @@ export const UserSkillsData = [
     projects_completed: "2+",
   },
 
-  {
-    name: "Open Source Contributions",
-    description: "Contributing to public repositories and collaborating with developers around the world.",
-    projects_completed: "2+",
-  },
 ];
 
