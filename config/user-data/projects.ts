@@ -7,6 +7,7 @@ export interface Project {
 }
 
 export const UserProjectsData: Project[] = [
+ 
   {
     title: "OpenHealth",
     role: "Frontend Developer",
@@ -22,6 +23,14 @@ export const UserProjectsData: Project[] = [
       "Onegrowth is a premium mentorship and digital resource platform designed to help users scale their personal and professional lives through structured learning, consistency tracking, and exclusive digital assets.",
     url: "https://www.one-growth.com/",
     previewImage: "/images/one.png",
+  },
+   {
+    title: "Korvix Event",
+    role: "Full Stack Lead Engineer",
+    description:
+      "Korvix is a high-performance event management and automated ticketing infrastructure, featuring real-time QR-based entry validation, Paystack payment integration, and a sophisticated multi-role dashboard for users, organizers, and support teams.",
+    url: "https://korvixevent.com",
+    previewImage: "/images/korvix.png",
   },
 
   {
@@ -111,6 +120,7 @@ export const UserProjectsData: Project[] = [
 ];
 
 export const UserProjectsData2: Project[] = [
+
   {
     title: "OpenHealth",
     role: "Frontend Intern",
@@ -126,6 +136,14 @@ export const UserProjectsData2: Project[] = [
       "Onegrowth is a premium mentorship and digital resource platform designed to help users scale their personal and professional lives through structured learning, consistency tracking, and exclusive digital assets.",
     url: "https://www.one-growth.com/",
     previewImage: "/images/one.png",
+  },
+    {
+    title: "Korvix Event",
+    role: "Full Stack Lead Engineer",
+    description:
+      "Korvix is a high-performance event management and automated ticketing infrastructure, featuring real-time QR-based entry validation, Paystack payment integration, and a sophisticated multi-role dashboard for users, organizers, and support teams.",
+    url: "https://korvixevent.com",
+    previewImage: "/images/korvix.png",
   },
   {
     title: "FutureTech Blog",

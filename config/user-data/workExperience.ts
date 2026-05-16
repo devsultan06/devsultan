@@ -9,7 +9,7 @@ export interface IWorkExperience {
 }
 
 export const UserWorkExperienceData: IWorkExperience[] = [
- 
+
   {
     company: "Openhealth",
     position: "Frontend Engineering",
@@ -24,6 +24,19 @@ export const UserWorkExperienceData: IWorkExperience[] = [
       "Provided UI/UX suggestions to improve user experience and accessibility",
       "Advised the team on modern frontend best practices and user data security",
       "Collaborated with backend developers to ensure seamless integration"
+    ]
+  },
+    {
+    company: "Korvix",
+    position: "Full-Stack Lead Engineer",
+    period: "April 2026 – Present",
+    responsibilities: [
+      "Engineered a high-performance event management platform featuring an automated digital ticketing system with dynamic QR codes and real-time entry validation.",
+      "Integrated Paystack payment gateway with robust webhook handling to ensure instant transaction verification and secure, automated ticket distribution.",
+      "Architected a complex multi-role ecosystem including User, Organizer, Admin, Support, and Operation Manager dashboards with granular permission controls and specialized tooling.",
+      "Developed advanced event modules including Livestream access fulfillment, interactive Seat Mapping, and VIP Table management for physical and hybrid events.",
+      "Built scalable serverless infrastructure using Supabase Edge Functions to handle high-volume transactional emails and real-time payment \"pings\" for instant fulfillment.",
+      "Managed the entire product lifecycle, from database schema design and multi-tenant security policies to full-scale production deployment and performance monitoring."
     ]
   },
   {
