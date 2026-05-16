@@ -40,7 +40,7 @@ export const UserWorkExperienceData: IWorkExperience[] = [
     ]
   },
   {
-    company: "Freelance",
+    company: "Freelance, Onegrowth",
     position: "Full-Stack Developer",
     companyUrl: "http://one-growth.com/",
     period: "February 2026 – March 2026",
