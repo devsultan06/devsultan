@@ -27,7 +27,7 @@ export const UserWorkExperienceData: IWorkExperience[] = [
     ]
   },
     {
-    company: "Korvix",
+    company: "Korvix Event",
     position: "Full-Stack Lead Engineer",
     period: "April 2026 – Present",
     responsibilities: [
