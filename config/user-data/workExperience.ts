@@ -12,7 +12,7 @@ export const UserWorkExperienceData: IWorkExperience[] = [
 
   {
     company: "Openhealth",
-    position: "Frontend Engineering",
+    position: "Frontend Engineer",
     companyUrl: "https://openhealthcoop.com",
     period: "April 2025 – June 2025",
     shortDescription: "Worked on major frontend revamp and internal tools during a 3-month internship",
@@ -25,8 +25,11 @@ export const UserWorkExperienceData: IWorkExperience[] = [
       "Advised the team on modern frontend best practices and user data security",
       "Collaborated with backend developers to ensure seamless integration"
     ]
+
+
+
   },
-    {
+  {
     company: "Korvix Event",
     position: "Full-Stack Lead Engineer",
     period: "April 2026 – Present",
@@ -52,30 +55,19 @@ export const UserWorkExperienceData: IWorkExperience[] = [
       "Created the backend system using Node.js and Prisma to manage accounts, content, and payments.",
       "Managed the entire product lifecycle from initial design and development to full deployment."
     ]
+
   },
   {
     company: "Blockagram",
-    position: "Full-Stack Product & Brand Engineer",
+    position: "Full-Stack Product Engineer (Agency).",
     period: "May 2026",
     responsibilities: [
       "Designed and built a human-centered Web3 experience platform focusing on upstream product strategy, brand narrative architecture, and behavioral journey mapping.",
       "Developed interactive brand infrastructure and visual identity systems to help Web3 founders establish market positioning and clear product narratives.",
       "Engineered the interfaces and flow for \"Builder's Therapy,\" a cognitive product clarity sprint offering diagnostic UX reports and onboarding roadmaps for founders.",
       "Created content-driven sections for research publications, interactive case studies, and educational workshop details addressing Web3 trust and adoption.",
-      "Managed the entire product lifecycle, establishing clean vanilla JavaScript architectures, semantic HTML structures, and responsive design systems."
     ]
   },
-   {
-    company: "Freelance / Web3 Projects",
-    position: "Solidity & Smart Contract Developer (Hackathon)",
-    period: "February 2026 – March 2026",
-    shortDescription: "Specializing in secure smart contract development and decentralized application architecture.",
-    responsibilities: [
-      "Designing and implementing secure, optimized smart contracts using Solidity.",
-      "Utilizing Foundry for robust testing, security auditing, and automated deployment pipelines.",
-      "Developing decentralized applications (dApps) with seamless blockchain integration.",
-      "Optimizing gas consumption for contract interactions to improve cost-efficiency.",
-      "Conducting code reviews and implementing security best practices to prevent vulnerabilities.",
-    ]
-  },
+
 ];
+
