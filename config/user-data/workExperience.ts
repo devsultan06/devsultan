@@ -52,7 +52,18 @@ export const UserWorkExperienceData: IWorkExperience[] = [
       "Created the backend system using Node.js and Prisma to manage accounts, content, and payments.",
       "Managed the entire product lifecycle from initial design and development to full deployment."
     ]
-
+  },
+  {
+    company: "Blockagram",
+    position: "Full-Stack Product & Brand Engineer",
+    period: "May 2026",
+    responsibilities: [
+      "Designed and built a human-centered Web3 experience platform focusing on upstream product strategy, brand narrative architecture, and behavioral journey mapping.",
+      "Developed interactive brand infrastructure and visual identity systems to help Web3 founders establish market positioning and clear product narratives.",
+      "Engineered the interfaces and flow for \"Builder's Therapy,\" a cognitive product clarity sprint offering diagnostic UX reports and onboarding roadmaps for founders.",
+      "Created content-driven sections for research publications, interactive case studies, and educational workshop details addressing Web3 trust and adoption.",
+      "Managed the entire product lifecycle, establishing clean vanilla JavaScript architectures, semantic HTML structures, and responsive design systems."
+    ]
   },
    {
     company: "Freelance / Web3 Projects",
@@ -68,4 +79,3 @@ export const UserWorkExperienceData: IWorkExperience[] = [
     ]
   },
 ];
-

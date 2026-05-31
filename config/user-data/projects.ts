@@ -7,7 +7,7 @@ export interface Project {
 }
 
 export const UserProjectsData: Project[] = [
- 
+
   {
     title: "OpenHealth",
     role: "Frontend Developer",
@@ -24,13 +24,21 @@ export const UserProjectsData: Project[] = [
     url: "https://www.one-growth.com/",
     previewImage: "/images/one.png",
   },
-   {
+  {
     title: "Korvix Event",
     role: "Full Stack Lead Engineer",
     description:
       "Korvix is a high-performance event management and automated ticketing infrastructure, featuring real-time QR-based entry validation, Paystack payment integration, and a sophisticated multi-role dashboard for users, organizers, and support teams.",
     url: "https://korvixevent.com",
     previewImage: "/images/korvix.png",
+  },
+  {
+    title: "Blockagram",
+    role: "Full Stack Engineer",
+    description:
+      "Blockagram is a human-centered Web3 experience studio specializing in product systems, strategy, and design. We help founders and teams build blockchain products people can actually understand, trust, and adopt.",
+    url: "https://blockagram.xyz",
+    previewImage: "/images/block.png",
   },
 
   {
@@ -129,7 +137,7 @@ export const UserProjectsData2: Project[] = [
     url: "https://openhealthcoop.com",
     previewImage: "/images/open.png",
   },
-    {
+  {
     title: "Onegrowth",
     role: "Full Stack Developer",
     description:
@@ -137,13 +145,21 @@ export const UserProjectsData2: Project[] = [
     url: "https://www.one-growth.com/",
     previewImage: "/images/one.png",
   },
-    {
+  {
     title: "Korvix Event",
     role: "Full Stack Lead Engineer",
     description:
       "Korvix is a high-performance event management and automated ticketing infrastructure, featuring real-time QR-based entry validation, Paystack payment integration, and a sophisticated multi-role dashboard for users, organizers, and support teams.",
     url: "https://korvixevent.com",
     previewImage: "/images/korvix.png",
+  },
+  {
+    title: "Blockagram",
+    role: "Full Stack Engineer",
+    description:
+      "Blockagram is a human-centered Web3 experience studio specializing in product systems, strategy, and design. We help founders and teams build blockchain products people can actually understand, trust, and adopt.",
+    url: "https://blockagram.xyz",
+    previewImage: "/images/block.png",
   },
   {
     title: "FutureTech Blog",
@@ -194,7 +210,7 @@ export const UserProjectsData2: Project[] = [
     url: "https://behance-builders.vercel.app/",
     previewImage: "/images/pro3.png",
   },
-    {
+  {
     title: "Agrohive",
     role: "Full Stack Developer",
     description:
@@ -210,7 +226,7 @@ export const UserProjectsData2: Project[] = [
     url: "https://conova.vercel.app/",
     previewImage: "/images/con2.png",
   },
-    {
+  {
     title: "ClipMind",
     role: "Full Stack Developer",
     description: "ClipMind is a tool for summarizing youtube videos using AI.",
