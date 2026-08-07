@@ -11,35 +11,39 @@ export interface IWorkExperience {
 export const UserWorkExperienceData: IWorkExperience[] = [
 
   {
+    company: "Blinqpay",
+    position: "Frontend Engineer",
+    companyUrl: "https://blinqpay.com",
+    period: "June 2026 – Present",
+    shortDescription: "Engineering embedded finance portals, investment platforms, the Qwid brand website, and FX rate distribution systems",
+    responsibilities: [
+      "Architected core modules for the Embedded Finance Admin portal (partners, customers, virtual accounts, KYC) and engineered the Rate Pusher app for centralized FX rate aggregation and markup distribution.",
+      "Built main features for the Investment web platform, including liquidations management, wallet integrations, analytics tracking, and investor detail dashboards.",
+      "Developed the Qwid brand website and integrated secure onboarding and 2FA authentication flows for the Qwid Partner Portal."
+    ]
+  },
+  {
     company: "Openhealth",
     position: "Frontend Engineer",
     companyUrl: "https://openhealthcoop.com",
     period: "April 2025 – June 2025",
     shortDescription: "Worked on major frontend revamp and internal tools during a 3-month internship",
     responsibilities: [
-      "Migrated the frontend codebase from Create React App (CRA) to Vite for faster builds and improved developer experience",
-      "Redesigned and developed the landing page and user dashboard using React and Tailwind CSS",
-      "Built and integrated an admin dashboard with API endpoints",
-      "Created a functional chatbot interface and connected it with backend services",
-      "Provided UI/UX suggestions to improve user experience and accessibility",
-      "Advised the team on modern frontend best practices and user data security",
-      "Collaborated with backend developers to ensure seamless integration"
+      "Migrated the frontend codebase from Create React App (CRA) to Vite, improving build speed and development workflow.",
+      "Redesigned and developed the landing page, user dashboard, and admin dashboard using React and Tailwind CSS.",
+      "Developed an interactive chatbot interface and collaborated with backend developers to secure and integrate endpoints.",
+      "Provided UI/UX suggestions to improve accessibility, user experience, and modern frontend best practices."
     ]
-
-
 
   },
   {
     company: "Korvix Event",
     position: "Full-Stack Lead Engineer",
-    period: "April 2026 – Present",
+    period: "January 2026 – June 2026",
     responsibilities: [
-      "Engineered a high-performance event management platform featuring an automated digital ticketing system with dynamic QR codes and real-time entry validation.",
-      "Integrated Paystack payment gateway with robust webhook handling to ensure instant transaction verification and secure, automated ticket distribution.",
-      "Architected a complex multi-role ecosystem including User, Organizer, Admin, Support, and Operation Manager dashboards with granular permission controls and specialized tooling.",
-      "Developed advanced event modules including Livestream access fulfillment, interactive Seat Mapping, and VIP Table management for physical and hybrid events.",
-      "Built scalable serverless infrastructure using Supabase Edge Functions to handle high-volume transactional emails and real-time payment \"pings\" for instant fulfillment.",
-      "Managed the entire product lifecycle, from database schema design and multi-tenant security policies to full-scale production deployment and performance monitoring."
+      "Engineered an event ticketing platform with real-time QR code validation and integrated Paystack payment processing with webhook handlers for ticket distribution.",
+      "Architected a multi-role dashboard ecosystem (User, Organizer, Admin, Support) featuring permission controls, livestreaming, seat mapping, and VIP table management.",
+      "Built serverless infrastructure via Supabase Edge Functions for transactional services, managing the entire database design, security policies, and deployment lifecycle."
     ]
   },
   {
@@ -49,11 +53,9 @@ export const UserWorkExperienceData: IWorkExperience[] = [
     period: "February 2026 – March 2026",
     shortDescription: "Delivered tailored web applications for clients as a freelance developer",
     responsibilities: [
-      "Designed and built a high-performance Landing Page using Next.js and Tailwind CSS, focusing on a modern and clean look.",
-      "Built the full-stack architecture for the platform, including the Super Admin panel and the User Dashboard.",
-      "Developed key features such as an automated newsletter system and a professional PDF receipt generator using Puppeteer.",
-      "Created the backend system using Node.js and Prisma to manage accounts, content, and payments.",
-      "Managed the entire product lifecycle from initial design and development to full deployment."
+      "Designed and built a high-performance landing page, Super Admin panel, and User Dashboard using Next.js and Tailwind CSS.",
+      "Developed the backend architecture using Node.js, Prisma, and database systems, implementing automated newsletters and Puppeteer-driven PDF generation.",
+      "Managed the entire product lifecycle from initial design and database schemas to production deployment."
     ]
 
   },

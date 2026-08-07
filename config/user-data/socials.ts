@@ -19,6 +19,10 @@ export const UserSocialsData = {
     url: "sultanabaniks@gmail.com",
   },
 
+  linkedin: {
+    icon: Linkedin,
+    url: "https://www.linkedin.com/in/sultan-abanikannda-2195a23a3",
+  },
   discord: {
     icon: AiOutlineDiscord,
     url: "https://discord.com/users/1097891811395129434",

@@ -9,6 +9,14 @@ export interface Project {
 export const UserProjectsData: Project[] = [
 
   {
+    title: "Qwid",
+    role: "Frontend Engineer",
+    description:
+      "Qwid is a cross-border financial platform that enables individuals and businesses to send, receive, convert, and hold money in multiple currencies across 180+ countries, utilizing multi-currency wallets and global virtual accounts.",
+    url: "https://qwid.io/",
+    previewImage: "/images/qwid.png",
+  },
+  {
     title: "OpenHealth",
     role: "Frontend Developer",
     description:
@@ -129,6 +137,14 @@ export const UserProjectsData: Project[] = [
 
 export const UserProjectsData2: Project[] = [
 
+  {
+    title: "Qwid",
+    role: "Frontend Engineer",
+    description:
+      "Qwid is a cross-border financial platform that enables individuals and businesses to send, receive, convert, and hold money in multiple currencies across 180+ countries, utilizing multi-currency wallets and global virtual accounts.",
+    url: "https://qwid.io/",
+    previewImage: "/images/qwid.png",
+  },
   {
     title: "OpenHealth",
     role: "Frontend Intern",

@@ -50,7 +50,7 @@ export const HeroSection = () => {
                     <span>💻</span>
                     <div>
                       <span className="lol text-white px-1">
-                        Full-Stack & Smart Contract Developer
+                        Full-Stack & Smart Contract Developer | Exploring FinTech & Payments
                       </span>
                     </div>
                   </p>
@@ -64,7 +64,7 @@ export const HeroSection = () => {
             <span className="lol text-white px-1">
               Full-Stack & Smart Contract Developer
             </span>{" "}
-            experienced in building modern web, mobile, and decentralized
+            experienced in building modern web, mobile, <span className="text-white">FinTech</span>, and decentralized
             applications. Proficient in developing clean, responsive interfaces
             with <span className="text-white">React, Next.js</span> and
             designing scalable backend architectures with{" "}
@@ -75,7 +75,15 @@ export const HeroSection = () => {
             <span className="text-white">Anchor</span>—building high-performance 
             applications on <span className="text-white">Solana</span> while 
             bridging the gap between traditional systems and the blockchain with 
-            a focus on security and scalability.
+            a focus on security and scalability. I also write about FinTech on my{" "}
+            <a 
+              href="https://www.linkedin.com/in/sultan-abanikannda-2195a23a3" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="text-white underline"
+            >
+              LinkedIn page
+            </a>.
           </p>
 
           {/* social links start */}
