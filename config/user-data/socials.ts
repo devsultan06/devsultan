@@ -6,11 +6,12 @@ export const UserSocialsData = {
     icon: Github,
     url: "https://github.com/devsultan06",
   },
-  instagram: {
-    icon: InstagramIcon,
-    url: 'https://www.instagram.com/devsultan06/',
+
+  linkedin: {
+    icon: Linkedin,
+    url: "https://www.linkedin.com/in/sultan-abanikannda-2195a23a3",
   },
-  twitter: {
+    twitter: {
     icon: TwitterIcon,
     url: "https://x.com/sultanabaniks",
   },
@@ -18,13 +19,10 @@ export const UserSocialsData = {
     icon: Mail,
     url: "sultanabaniks@gmail.com",
   },
+  instagram: {
+    icon: InstagramIcon,
+    url: 'https://www.instagram.com/devsultan06/',
+  },
 
-  linkedin: {
-    icon: Linkedin,
-    url: "https://www.linkedin.com/in/sultan-abanikannda-2195a23a3",
-  },
-  discord: {
-    icon: AiOutlineDiscord,
-    url: "https://discord.com/users/1097891811395129434",
-  },
+
 };
