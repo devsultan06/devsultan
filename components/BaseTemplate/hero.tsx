@@ -64,7 +64,7 @@ export const HeroSection = () => {
             <span className="lol text-white px-1">
               Full-Stack & Smart Contract Developer
             </span>{" "}
-            experienced in building modern web, mobile, <span className="text-white">FinTech</span>, and decentralized
+            currently working in <span className="text-white">FinTech</span> and experienced in building modern web, mobile, and decentralized
             applications. Proficient in developing clean, responsive interfaces
             with <span className="text-white">React, Next.js</span> and
             designing scalable backend architectures with{" "}
