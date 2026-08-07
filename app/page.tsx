@@ -12,8 +12,9 @@ export default function Home() {
   return (<BaseTemplateLayout>
     <HeroSection />
     <WorkExperienceSection />
-    <SkillsSection />
     <ProjectsSection />
+        <SkillsSection />
+
     <TechStackSection/>
     <ConnectSection />
     <BaseFooter />
