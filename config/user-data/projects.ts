@@ -16,6 +16,7 @@ export const UserProjectsData: Project[] = [
     url: "https://qwid.io/",
     previewImage: "/images/qwid.png",
   },
+ 
   {
     title: "OpenHealth",
     role: "Frontend Developer",
@@ -47,6 +48,14 @@ export const UserProjectsData: Project[] = [
       "Blockagram is a human-centered Web3 experience studio specializing in product systems, strategy, and design. We help founders and teams build blockchain products people can actually understand, trust, and adopt.",
     url: "https://blockagram.xyz",
     previewImage: "/images/block.png",
+  },
+   {
+    title: "PayAjo",
+    role: "Full Stack Developer",
+    description:
+      "PayAjo is a group savings and peer-to-peer rotating savings (ROSCA) web and mobile application. It features automated contribution cycles, real-time activity tracking, risk scoring, integrated group chats, and secure wallet payments.",
+    url: "https://payajo.vercel.app/",
+    previewImage: "/images/payajo.png",
   },
 
   {
@@ -145,6 +154,7 @@ export const UserProjectsData2: Project[] = [
     url: "https://qwid.io/",
     previewImage: "/images/qwid.png",
   },
+
   {
     title: "OpenHealth",
     role: "Frontend Intern",
@@ -176,6 +186,14 @@ export const UserProjectsData2: Project[] = [
       "Blockagram is a human-centered Web3 experience studio specializing in product systems, strategy, and design. We help founders and teams build blockchain products people can actually understand, trust, and adopt.",
     url: "https://blockagram.xyz",
     previewImage: "/images/block.png",
+  },
+    {
+    title: "PayAjo",
+    role: "Full Stack Developer",
+    description:
+      "PayAjo is a group savings and peer-to-peer rotating savings (ROSCA) web and mobile application. It features automated contribution cycles, real-time activity tracking, risk scoring, integrated group chats, and secure wallet payments.",
+    url: "https://payajo.vercel.app/",
+    previewImage: "/images/payajo.png",
   },
   {
     title: "FutureTech Blog",
